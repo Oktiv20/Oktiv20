@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋🏼, my name is Kyle!
 
+💻 I’m currently working on finishing the Back End .NET/C# course at Nashville Software School.
+
+🔭 You can find me on LinkedIn here -> [Kyle Blunt](https://www.linkedin.com/in/kylebluntdev/)
+
+🛠 These are some of my tools that I use for software development
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,cs,dotnet,postgres,firebase,postman,visualstudio,vscode,html,css,)](https://skillicons.dev)
 <!--
 **Oktiv20/Oktiv20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
