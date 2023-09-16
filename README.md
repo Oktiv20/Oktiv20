@@ -1,4 +1,4 @@
-### Hi there 👋🏼, my name is Kyle!
+### Hey there 👋🏼, my name is Kyle!
 
 💻 I’m currently working on finishing the Back End .NET/C# course at Nashville Software School.
 
